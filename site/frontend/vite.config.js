@@ -12,8 +12,8 @@ export default defineConfig({
         "name":"Abol",
         "short_name":"Abol",
         "display": "standalone",
-        "background_color": "#071952",
-        "theme_color": "#071952",
+        "background_color": "#4A274F",
+        "theme_color": "#4A274F",
         "icons":[
           {
             src: "Business/Abol/favicon_io/android-chrome-512x512.png",
